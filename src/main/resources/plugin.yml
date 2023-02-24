@@ -1,0 +1,9 @@
+name: Michalowicepoziomy
+version: '${project.version}'
+main: michał.gryboś.michalowicepoziomy.Michalowicepoziomy
+api-version: 1.19
+commands:
+  profil:
+    description: Otwiera profil
+    usage: /profil
+    permission: Michalowicepoziomy.profil
